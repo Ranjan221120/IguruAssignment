@@ -1,4 +1,4 @@
-# IguruAssignment
+# Iguru Assignment
 
 A Flutter application that displays a users list from API, with location services and image upload functionality.
 
